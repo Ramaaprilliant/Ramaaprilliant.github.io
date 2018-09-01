@@ -1,0 +1,74 @@
+body{
+    background-image: url("wallpaper2you_245631.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    margin : -50px 0px -20px 0px;
+}
+table {
+    display: table;
+    border-radius: 20px;
+    border-collapse: collapse;
+    border-spacing: 2px;
+    border-bottom-color: #ffffff ;
+    border-bottom-style: hidden;
+    border-left-style: hidden;
+    border-left-color: #ffffff ;
+    border-right-style: hidden;
+    border-right-color: #ffffff ;
+    border-top-style: hidden;
+    border-top-color: #ffffff ;
+    background-color: #444040 ;
+}
+tr{
+    border-bottom-color: #ffffff ;
+    border-bottom-style: hidden;
+    border-left-style: hidden;
+    border-left-color: #ffffff ;
+    border-right-style: hidden;
+    border-right-color: #ffffff ;
+    border-top-style: hidden;
+    border-top-color: #ffffff ;
+    background-color: #303030 transparent;
+}
+td{
+    border-bottom-color: #ffffff ;
+    border-bottom-style: hidden;
+    border-left-style: hidden;
+    border-left-color: #ffffff ;
+    border-right-style: hidden;
+    border-right-color: #ffffff ;
+    border-top-style: hidden;
+    border-top-color: #ffffff ;
+    background-color: #303030 transparent;
+    padding: 3px 24px;
+}
+th{
+    border-left-style: solid;
+    border-left-color: #ffffff;
+    background-color: rgba(0, 0, 0, 0.5);
+    padding: 3px 24px;
+}
+.marginmenu{
+        margin-top:8px;
+        margin-left:20px;
+    }
+.container {
+        width: 100%;
+        margin: 0 auto;
+        background:transparent;
+    }
+.menu{
+        width:100%;
+        height:45px;
+        background:transparent;
+    }
+#table {
+        background-color: rgba(0, 0, 0, 0.5);
+    }    
+h2{
+    color: #ffffff;
+}
+h4{
+    color: #ffffff;
+}

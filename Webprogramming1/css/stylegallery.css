@@ -1,0 +1,12 @@
+#list100{
+    background:url(../Photo/Screenshot\ \(4\).png);
+    margin : -50px 0px -20px 0px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+#list200{
+    background: rgba(0,0,0,.6);
+    color: black;
+    border-radius: 2%;
+}
